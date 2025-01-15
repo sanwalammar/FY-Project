@@ -1,2 +1,2 @@
 # TrustyShop
-My Final Year Project - A E-commerce web application
+My Final Year Project - A web application
